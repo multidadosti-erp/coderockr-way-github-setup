@@ -73,6 +73,7 @@ fi
 REMOVE_DEFAULT_LABELS='bug
 duplicate
 enhancement
+documentation
 good%20first%20issue
 help%20wanted
 invalid
