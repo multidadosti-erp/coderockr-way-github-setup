@@ -86,6 +86,7 @@ Category: Translation,8bb20a
 Category: Unit test,ededed
 Priority: Highest,b60205
 Status: Blocked,514a47
+Status: Needs Fixing,F38630
 Type: Bug,bc0d32
 Type: Improvement,84b6eb
 Type: New feature,0052cc
